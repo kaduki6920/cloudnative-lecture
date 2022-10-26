@@ -20,6 +20,7 @@ AWSアカウントは後日運営からお渡ししますのでお待ちくだ�
 手順：https://github.com/kichiram/aws/blob/main/connect_ec2_instance/README.md
 
 　※Macの方は下記を参考に実施してみてください
+ 
  　https://qiita.com/assy-nkm/items/695e41d8e71d0d281ac4
 
 ## 4.EC2インスタンスの削除
