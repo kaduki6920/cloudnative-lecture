@@ -1,4 +1,4 @@
-# 11/10　AWS勉強会参加者用事前課題
+# AWS勉強会参加者用　事前課題
 
 ## 1.AWSアカウント準備
 AWSアカウントは後日運営からお渡ししますのでお待ちください。
@@ -28,3 +28,9 @@ AWSアカウントは後日運営からお渡ししますのでお待ちくだ�
 EC2インスタンスは起動している時間に対して課金がされますので接続確認ができ次第削除してください
 
 手順：https://catalog.us-east-1.prod.workshops.aws/workshops/47782ec0-8e8c-41e8-b873-9da91e822b36/ja-JP/cleanup/cleanup2
+
+
+# 11/10　AWS勉強会参加者用　当日資料
+資料は当日に公開します
+
+https://docs.google.com/spreadsheets/d/1E1F-bemnc4zh3ovu4vZcYbVwbQ2TyT3V/edit#gid=1970606662
